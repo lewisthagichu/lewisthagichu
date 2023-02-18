@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lewisthagichu254@gmail.com**
 
-- ⚡ Fun fact: **My code is so efficient, it once solved a Rubik's Cube before I even finished scrambling it.**
+- ⚡ Fun fact: **I've developed a reputation for being a bit of a code ninja, although I'm not entirely sure what that means.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

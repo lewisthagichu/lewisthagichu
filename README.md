@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lewisthagichu254@gmail.com**
 
-- ⚡ Fun fact **I'm a passionate photographer and love capturing the beauty of the world around us.**
+- ⚡ Fun fact: **My code is so efficient, it once solved a Rubik's Cube before I even finished scrambling it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

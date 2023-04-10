@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects;**
 
-- 💬 Ask me about **anything Web Development Related;**
+- 💬 Ask me about **Web Development;**
 
 - 📫 How to reach me **lewisthagichu254@gmail.com**
 

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Sauti254 App;**
 
-- 🌱 I’m currently learning **C++;**
+- 🌱 I’m currently learning the **MERN stack;**
 
 - 👯 I’m looking to collaborate on **Open source projects;**
 

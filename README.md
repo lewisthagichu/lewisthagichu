@@ -1,5 +1,5 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
-<h1 align="center">Hey there 👋, I'm Lewis Thagichu</h1>
+<h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for creating stunning web applications and a knack for solving complex problems.</h3>
 
 <p align="left"> <a href="https://twitter.com/thagichucodes" target="blank"><img src="https://img.shields.io/twitter/follow/thagichucodes?logo=twitter&style=for-the-badge" alt="thagichucodes" /></a> </p>

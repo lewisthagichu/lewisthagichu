@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development;**
 
-- 📫 How to reach me **thagichucodes@gmail.com**
+- 📫 How to reach me **info@lewisthagichu.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

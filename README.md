@@ -4,12 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/thagichucodes" target="blank"><img src="https://img.shields.io/twitter/follow/thagichucodes?logo=twitter&style=for-the-badge" alt="thagichucodes" /></a> </p>
 
-- 🔭 I’m currently working on **NexTalk;**
-
-- 🌱 I’m currently learning **React Native;**
-
-- 💬 Ask me about **Web Development;**
-
 - 📫 How to reach me **info@lewisthagichu.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,6 +1,6 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I create scalable web applications.</h3>
+<h3 align="center">I create scalable applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/thagichucodes" target="blank"><img src="https://img.shields.io/twitter/follow/thagichucodes?logo=twitter&style=for-the-badge" alt="thagichucodes" /></a> </p>
 

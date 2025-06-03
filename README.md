@@ -11,7 +11,7 @@ I'm a software engineer passionate about designing and building scalable, perfor
 
 ## 🌐 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thagichucodes)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thagichucodes) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-thagichu/)
 
 ## 🛠️ Technologies & Tools

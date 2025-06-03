@@ -1,14 +1,28 @@
-![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
-<h1 align="center">Hey there 👋</h1>
-<h3 align="center">I create scalable applications.</h3>
+# Lewis Thagichu
 
-<p align="left"> <a href="https://twitter.com/thagichucodes" target="blank"><img src="https://img.shields.io/twitter/follow/thagichucodes?logo=twitter&style=for-the-badge" alt="thagichucodes" /></a> </p>
+**Software Engineer | Building Scalable Applications**
 
-- 📫 How to reach me **info@lewisthagichu.com**
+📍 Nairobi, Kenya  
+📧 info@lewisthagichu.com  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thagichucodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thagichucodes" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lewis-thagichu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewis thagichu" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
+
+I'm a software engineer passionate about designing and building scalable, performant applications. I focus on creating solutions that are both robust and maintainable.
+
+## 🌐 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thagichucodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-thagichu/)
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, Python, Kotlin
+- **Frameworks**: React, React Native, Node.js, Express, Django, Flask
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, Docker, AWS
+- **Other**: REST APIs, Microservices, CI/CD
+
+<!-- ## 📈 GitHub Stats -->
+
+<!-- Your stats can go here when ready -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewisthagichu&" alt="lewisthagichu" /></p> -->

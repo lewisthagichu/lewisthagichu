@@ -11,4 +11,4 @@
 <a href="https://twitter.com/thagichucodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thagichucodes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lewis-thagichu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewis thagichu" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewisthagichu&" alt="lewisthagichu" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewisthagichu&" alt="lewisthagichu" /></p> -->

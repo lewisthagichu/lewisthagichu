@@ -16,7 +16,7 @@ I'm a software engineer passionate about designing and building scalable, perfor
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Python, Kotlin
+- **Languages**: JavaScript, TypeScript, Python, Go, Kotlin
 - **Frameworks**: React, React Native, Node.js, Express, Django, Flask
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker, AWS

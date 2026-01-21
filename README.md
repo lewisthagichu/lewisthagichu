@@ -17,10 +17,10 @@ I'm a software engineer passionate about designing and building scalable, perfor
 ## 🛠️ Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, Python, Go, Kotlin
-- **Frameworks**: React, React Native, Node.js, Express, Django, Flask
+- **Frameworks**: React, React Native, Node.js, Express, Django, Flask, FastApi
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker, AWS
-- **Other**: REST APIs, Microservices, CI/CD
+- **Other**: CI/CD
 
 <!-- ## 📈 GitHub Stats -->
 
